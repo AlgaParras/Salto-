@@ -9,4 +9,4 @@ class humano():
     def hacerpopo(self):
         print("me hize popo")
     def numero(self):
-        print(2)
+        print(3)
