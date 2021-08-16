@@ -6,3 +6,5 @@ class humano():
         Aumento = int(input("¿Cuanto de edad quieres aumentar? :"))
         self.edad += Aumento
         
+    def hacerpopo(self):
+        print("me hize popo")
